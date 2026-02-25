@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M. Meenakshi | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>M. MEENAKSHI</h1>
+    <p>Web Designing & Graphic Design Beginner</p>
+</header>
+
+<section class="contact">
+    <p>📍 13/6 Guruvayurappan Garden, Chengapalli, Uthukulli - 638812</p>
+    <p>📧 Meenakshi032005032005@gmail.com</p>
+    <p>📞 7358800539</p>
+</section>
+
+<section>
+    <h2>Career Objective</h2>
+    <p>
+        Seeking a challenging career with a progressive organization that provides 
+        an opportunity to utilize my technical skills and abilities while learning 
+        and growing professionally.
+    </p>
+</section>
+
+<section>
+    <h2>Academic Qualification</h2>
+    <table>
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Board / University</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td>SSLC</td>
+            <td>Govt Higher Secondary School, Pallagoundanpalayam</td>
+            <td>State Board</td>
+            <td>60%</td>
+        </tr>
+        <tr>
+            <td>HSC</td>
+            <td>Govt Higher Secondary School, Pallagoundanpalayam</td>
+            <td>State Board</td>
+            <td>59%</td>
+        </tr>
+        <tr>
+            <td>B.Sc IT</td>
+            <td>AVP College of Arts & Science</td>
+            <td>Bharathiar University</td>
+            <td>79%</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>C, C++</li>
+        <li>graphics designing</li>
+        <li>Python</li>
+        <li>Adobe Photoshop</li>
+        <li>Web Designing (HTML, CSS)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Certificates</h2>
+    <ul>
+        <li>Adobe Photoshop</li>
+        <li>Web Designing</li>
+        <li>Home Automation</li>
+        <li>Web Development with PHP Programming (CSWDP)</li>
+        <li>Infosys Course</li>
+        <li>Graphics and Animation Course</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Personal Qualities</h2>
+    <ul>
+        <li>Positive attitude</li>
+        <li>Good communication skills</li>
+        <li>Quick learner</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2026 M. Meenakshi | Portfolio Website</p>
+</footer>
+
+</body>
+</html>
