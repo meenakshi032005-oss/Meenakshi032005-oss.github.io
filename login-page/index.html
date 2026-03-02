@@ -6,12 +6,18 @@
 </head>
 <body>
 
-<div class="container">
+<form class="container" onsubmit="return loginFunction()">
     <h2>Login</h2>
-    <input type="email" placeholder="Email">
-    <input type="password" placeholder="Password">
-    <button>Login</button>
-</div>
+    <input type="email" placeholder="Email" required>
+    <input type="password" placeholder="Password" required>
+    <button type="submit">Login</button>
+</form>
 
+<script>
+function loginFunction() {
+    alert("Login Successful!");
+    return false;
+}
+</script>
 </body>
 </html>
