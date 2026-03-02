@@ -11,7 +11,7 @@ body{
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid black;
-  animation: typing 3s steps(20) forwards, blink 0.7s infinite;
+  animation: typing 3s steps(20) forwards;
 }
 
 @keyframes typing {
@@ -111,4 +111,5 @@ footer{
   padding:20px;
   background:#020617;
 }
+
 
